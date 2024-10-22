@@ -4,8 +4,9 @@
 //
 //  Created by Dorian Rousse on 20/02/2024.
 //
-
+import CoreData
 import UIKit
+import CoreMotion
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 

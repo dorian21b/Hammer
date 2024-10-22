@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1" systemVersion="11A491" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithCloudKit="false" userDefinedModelVersionIdentifier="">
-    <elements/>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22522" systemVersion="23D60" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Joueur" representedClassName="Joueur" syncable="YES" codeGenerationType="class">
+        <attribute name="nom" optional="YES" attributeType="String"/>
+        <attribute name="prenom" optional="YES" attributeType="String"/>
+        <relationship name="ensembleDesScores" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Scores" inverseName="quelJoueur" inverseEntity="Scores"/>
+    </entity>
+    <entity name="Scores" representedClassName="Scores" syncable="YES" codeGenerationType="class">
+        <attribute name="date" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="score" optional="YES" attributeType="Integer 16" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <relationship name="quelJoueur" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Joueur" inverseName="ensembleDesScores" inverseEntity="Joueur"/>
+    </entity>
 </model>

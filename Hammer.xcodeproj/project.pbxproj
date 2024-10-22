@@ -7,6 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		574B95BB2B91BFFC00220B4F /* coble4.png in Resources */ = {isa = PBXBuildFile; fileRef = 574B95B72B91BFFC00220B4F /* coble4.png */; };
+		574B95BC2B91BFFC00220B4F /* coble3.png in Resources */ = {isa = PBXBuildFile; fileRef = 574B95B82B91BFFC00220B4F /* coble3.png */; };
+		574B95BD2B91BFFC00220B4F /* coble1.png in Resources */ = {isa = PBXBuildFile; fileRef = 574B95B92B91BFFC00220B4F /* coble1.png */; };
+		574B95BE2B91BFFC00220B4F /* coble2.png in Resources */ = {isa = PBXBuildFile; fileRef = 574B95BA2B91BFFC00220B4F /* coble2.png */; };
+		574B95C22B91CB9100220B4F /* coble0.png in Resources */ = {isa = PBXBuildFile; fileRef = 574B95C12B91CB9100220B4F /* coble0.png */; };
+		574B95C72B91CE3600220B4F /* backgournd.png in Resources */ = {isa = PBXBuildFile; fileRef = 574B95C62B91CE3500220B4F /* backgournd.png */; };
+		574B95CD2B91DB7900220B4F /* say2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 574B95C82B91DB7800220B4F /* say2.wav */; };
+		574B95CE2B91DB7900220B4F /* stone4.wav in Resources */ = {isa = PBXBuildFile; fileRef = 574B95C92B91DB7800220B4F /* stone4.wav */; };
+		574B95CF2B91DB7900220B4F /* yes1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 574B95CA2B91DB7800220B4F /* yes1.wav */; };
+		574B95D02B91DB7900220B4F /* levelup.wav in Resources */ = {isa = PBXBuildFile; fileRef = 574B95CB2B91DB7800220B4F /* levelup.wav */; };
+		574B95D12B91DB7900220B4F /* click.wav in Resources */ = {isa = PBXBuildFile; fileRef = 574B95CC2B91DB7900220B4F /* click.wav */; };
+		574B95D32B91E32800220B4F /* stone1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 574B95D22B91E32800220B4F /* stone1.wav */; };
+		574B95D52B91E84900220B4F /* pioche.png in Resources */ = {isa = PBXBuildFile; fileRef = 574B95D42B91E84900220B4F /* pioche.png */; };
 		5787FBB12B84DFB600023063 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5787FBB02B84DFB600023063 /* AppDelegate.swift */; };
 		5787FBB32B84DFB600023063 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5787FBB22B84DFB600023063 /* SceneDelegate.swift */; };
 		5787FBB52B84DFB600023063 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5787FBB42B84DFB600023063 /* ViewController.swift */; };
@@ -17,6 +30,9 @@
 		5787FBCB2B84DFBB00023063 /* HammerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5787FBCA2B84DFBB00023063 /* HammerTests.swift */; };
 		5787FBD52B84DFBB00023063 /* HammerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5787FBD42B84DFBB00023063 /* HammerUITests.swift */; };
 		5787FBD72B84DFBB00023063 /* HammerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5787FBD62B84DFBB00023063 /* HammerUITestsLaunchTests.swift */; };
+		5797BD7B2B8505C400DE5C55 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5797BD7A2B8505C400DE5C55 /* TableViewController.swift */; };
+		5797BD812B8509C900DE5C55 /* Viewscores.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5797BD802B8509C900DE5C55 /* Viewscores.swift */; };
+		57DE22482B908AC700EE7924 /* AddJoueurViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57DE22472B908AC700EE7924 /* AddJoueurViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,6 +53,19 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		574B95B72B91BFFC00220B4F /* coble4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = coble4.png; path = ../../../Desktop/coble4.png; sourceTree = "<group>"; };
+		574B95B82B91BFFC00220B4F /* coble3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = coble3.png; path = ../../../Desktop/coble3.png; sourceTree = "<group>"; };
+		574B95B92B91BFFC00220B4F /* coble1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = coble1.png; path = ../../../Desktop/coble1.png; sourceTree = "<group>"; };
+		574B95BA2B91BFFC00220B4F /* coble2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = coble2.png; path = ../../../Desktop/coble2.png; sourceTree = "<group>"; };
+		574B95C12B91CB9100220B4F /* coble0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = coble0.png; path = ../../../Desktop/coble0.png; sourceTree = "<group>"; };
+		574B95C62B91CE3500220B4F /* backgournd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backgournd.png; sourceTree = "<group>"; };
+		574B95C82B91DB7800220B4F /* say2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = say2.wav; sourceTree = "<group>"; };
+		574B95C92B91DB7800220B4F /* stone4.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = stone4.wav; sourceTree = "<group>"; };
+		574B95CA2B91DB7800220B4F /* yes1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = yes1.wav; sourceTree = "<group>"; };
+		574B95CB2B91DB7800220B4F /* levelup.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = levelup.wav; sourceTree = "<group>"; };
+		574B95CC2B91DB7900220B4F /* click.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = click.wav; sourceTree = "<group>"; };
+		574B95D22B91E32800220B4F /* stone1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = stone1.wav; sourceTree = "<group>"; };
+		574B95D42B91E84900220B4F /* pioche.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pioche.png; sourceTree = "<group>"; };
 		5787FBAD2B84DFB600023063 /* Hammer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hammer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5787FBB02B84DFB600023063 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5787FBB22B84DFB600023063 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -51,6 +80,13 @@
 		5787FBD02B84DFBB00023063 /* HammerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HammerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5787FBD42B84DFBB00023063 /* HammerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HammerUITests.swift; sourceTree = "<group>"; };
 		5787FBD62B84DFBB00023063 /* HammerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HammerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5787FBE32B84E4C500023063 /* Joueur+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Joueur+CoreDataClass.swift"; sourceTree = "<group>"; };
+		5787FBE42B84E4C500023063 /* Joueur+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Joueur+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		5787FBE52B84E4C500023063 /* Scores+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Scores+CoreDataClass.swift"; sourceTree = "<group>"; };
+		5787FBE62B84E4C500023063 /* Scores+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Scores+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		5797BD7A2B8505C400DE5C55 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		5797BD802B8509C900DE5C55 /* Viewscores.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Viewscores.swift; sourceTree = "<group>"; };
+		57DE22472B908AC700EE7924 /* AddJoueurViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddJoueurViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,11 +137,31 @@
 		5787FBAF2B84DFB600023063 /* Hammer */ = {
 			isa = PBXGroup;
 			children = (
+				5787FBE32B84E4C500023063 /* Joueur+CoreDataClass.swift */,
+				5787FBE42B84E4C500023063 /* Joueur+CoreDataProperties.swift */,
+				5787FBE52B84E4C500023063 /* Scores+CoreDataClass.swift */,
+				5787FBE62B84E4C500023063 /* Scores+CoreDataProperties.swift */,
 				5787FBB02B84DFB600023063 /* AppDelegate.swift */,
 				5787FBB22B84DFB600023063 /* SceneDelegate.swift */,
 				5787FBB42B84DFB600023063 /* ViewController.swift */,
+				574B95B92B91BFFC00220B4F /* coble1.png */,
+				574B95BA2B91BFFC00220B4F /* coble2.png */,
+				574B95C12B91CB9100220B4F /* coble0.png */,
+				574B95B82B91BFFC00220B4F /* coble3.png */,
+				574B95B72B91BFFC00220B4F /* coble4.png */,
 				5787FBB62B84DFB600023063 /* Main.storyboard */,
+				574B95D22B91E32800220B4F /* stone1.wav */,
+				574B95CC2B91DB7900220B4F /* click.wav */,
+				574B95CB2B91DB7800220B4F /* levelup.wav */,
+				574B95C82B91DB7800220B4F /* say2.wav */,
+				574B95C92B91DB7800220B4F /* stone4.wav */,
+				574B95CA2B91DB7800220B4F /* yes1.wav */,
+				574B95C62B91CE3500220B4F /* backgournd.png */,
+				57DE22472B908AC700EE7924 /* AddJoueurViewController.swift */,
+				5797BD802B8509C900DE5C55 /* Viewscores.swift */,
+				5797BD7A2B8505C400DE5C55 /* TableViewController.swift */,
 				5787FBBC2B84DFBA00023063 /* Assets.xcassets */,
+				574B95D42B91E84900220B4F /* pioche.png */,
 				5787FBBE2B84DFBA00023063 /* LaunchScreen.storyboard */,
 				5787FBC12B84DFBA00023063 /* Info.plist */,
 				5787FBB92B84DFB600023063 /* Hammer.xcdatamodeld */,
@@ -234,9 +290,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				574B95C22B91CB9100220B4F /* coble0.png in Resources */,
+				574B95D12B91DB7900220B4F /* click.wav in Resources */,
+				574B95BC2B91BFFC00220B4F /* coble3.png in Resources */,
 				5787FBC02B84DFBA00023063 /* LaunchScreen.storyboard in Resources */,
+				574B95D02B91DB7900220B4F /* levelup.wav in Resources */,
+				574B95D52B91E84900220B4F /* pioche.png in Resources */,
+				574B95BE2B91BFFC00220B4F /* coble2.png in Resources */,
 				5787FBBD2B84DFBA00023063 /* Assets.xcassets in Resources */,
+				574B95CD2B91DB7900220B4F /* say2.wav in Resources */,
+				574B95CF2B91DB7900220B4F /* yes1.wav in Resources */,
+				574B95CE2B91DB7900220B4F /* stone4.wav in Resources */,
+				574B95BB2B91BFFC00220B4F /* coble4.png in Resources */,
+				574B95C72B91CE3600220B4F /* backgournd.png in Resources */,
 				5787FBB82B84DFB600023063 /* Main.storyboard in Resources */,
+				574B95D32B91E32800220B4F /* stone1.wav in Resources */,
+				574B95BD2B91BFFC00220B4F /* coble1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,9 +330,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				57DE22482B908AC700EE7924 /* AddJoueurViewController.swift in Sources */,
 				5787FBB52B84DFB600023063 /* ViewController.swift in Sources */,
+				5797BD812B8509C900DE5C55 /* Viewscores.swift in Sources */,
 				5787FBBB2B84DFB600023063 /* Hammer.xcdatamodeld in Sources */,
 				5787FBB12B84DFB600023063 /* AppDelegate.swift in Sources */,
+				5797BD7B2B8505C400DE5C55 /* TableViewController.swift in Sources */,
 				5787FBB32B84DFB600023063 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -444,8 +516,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = V2ZG5W4FYH;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Hammer/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -453,6 +527,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -471,8 +546,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = V2ZG5W4FYH;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Hammer/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -480,6 +557,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
